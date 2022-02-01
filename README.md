@@ -1,5 +1,20 @@
 # La Fourche - Test Technique Dev Front
 
+This test is made with [Next.js](https://nextjs.org/) and bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
 ## Sujet
 
 Le but de ce test technique est de tester ta capacité à traiter des problèmes simples et récurrents en JS, notamment en React dans un contexte ecommerce.
@@ -62,3 +77,7 @@ Pour récupérer un produit par son slug (handle dans Shopify): [http://localhos
 ## Livrable
 
 Le livrable sera sous la forme d'une Pull Request, de ton fork vers la branche master de ce repo.
+
+
+
+
